@@ -13,7 +13,7 @@ django-ssh-deployer==0.4.3
 djangorestframework==3.9.2
 djangorestframework-filters==0.10.2.post0
 gunicorn==19.9.0
-lxml==4.3.1
+lxml==4.6.3
 Markdown==3.0.1
 olefile==0.46
 paramiko==2.4.2
